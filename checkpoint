@@ -1,0 +1,2 @@
+model_checkpoint_path: "LR_model_all_class.ckpt"
+all_model_checkpoint_paths: "LR_model_all_class.ckpt"
